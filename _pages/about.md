@@ -18,6 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 I am Kim and I am a PhD candidate in the Algorithmics group at Delft University of Technology. I focus on algorithms for scheduling under uncertainty. Recent publications focused on on scheduling, stochastic optimization, simulation optimization, decision-focused learning, gradient estimation, and temporal networks. My supervisors are Prof. Mathijs de Weerdt, Dr. David Tax and Dr. Esteban Freydell (DSM-Firmenich). My work is supported by the AI4b.io program, a collaboration between TU Delft and dsm-firmenich, and is fully funded by dsm-firmenich and the RVO (Rijksdienst voor Ondernemend Nederland). You an learn more about AI4b.io [here] (ai4b.io).
 
-Please refer to my publications here [publications page](/al-folio/publications/).
+Please refer to my publications here [publications page](https://kimvandenhouten.github.io/publications/).
 
 
