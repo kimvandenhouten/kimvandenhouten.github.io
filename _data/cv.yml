@@ -2,45 +2,71 @@
   type: map
   contents:
     - name: Full Name
-      value: Kim van den Houten
+      value: Issa Kalina Hanou
     - name: Position
       value: PhD candidate
     - name: Date of Birth
-      value: 14th June 1997
+      value: 25th July 1998
     - name: Email
-      value: k.c.vandenhouten@tudelft.nl
+      value: i.k.hanou@tudelft.nl
     - name: Summary
-      value: Working on the intersection of Computer Science and Operations Research.
+      value: A Dutch-born scientist in Computer Science, working on sustainable and  effective mobility using AI Planning.
 - title: Languages
   type: list_groups
   contents:
-  - category: Dutch
-  - category: English
+    - category: English
+      items:
+        - name: Native speaker
+    - category: Dutch
+      items:
+        - name: Native speaker
+    - category: Spanish
+      items:
+        - name: Intermediate
 - title: Experience
   type: time_table
   contents:
     - title: PhD student
       institution: Delft University of Technology, Delft, The Netherlands
       department: Algorithmics
-      year: 2021 - present
-      maindescription: Position in the AI4b.io Lab
+      year: 2022 - present
+      maindescription: Position in the RAIL Lab
     - title: Student Assistant
-      institution: Vrije Universiteit Amsterdam
-      year: 2020-2021
-      maindescription: Course: Computational Intelligence (Artificial Intelligence)
-    - title: Student-Assistant Capacity Management in Healthcare
-      institution: Rhythm B.V.
-      year: 2019-2020
-      maindescription: Data Analysis
-    - title: Student Assistant
-      institution: University of Amsterdam
-      year: 2019
+      institution: Delft University of Technology, Delft, The Netherlands
+      year: 2017-2022
+      maindescription: Helped with many courses, including
+      items:
+        - Algorithms for NP-hard Problems
+        - Complexity Theory
+        - Algorithm Design
+        - Algorithms and Data Structures
+        - Introduction to Python Programming
+    - title: Graduate Intern
+      institution: Nederlandse Spoorwegen
+      year: 2022
 - title: Education
   type: time_table
   contents:
-    - title: MSc Econometrics and Operations Research
-      institution: Vrije Universiteit Amsterdam, The Netherlands
-      year: 2021   
-    - title: BSc Econometrics and Operations Research
-      institution: University of Amsterdam, The Netherlands
-      year: 2019
+    - title: MSc Computer Science - Software Technology
+      institution: Delft University of Technology, Delft, The Netherlands
+      year: 2022
+    - title: Practicum Musicae - Classical Accordion
+      institution: Royal Conservatory, The Hague, The Netherlands
+      year: 2023      
+    - title: BSc Computer Science and Engineering
+      institution: Delft University of Technology, Delft, The Netherlands
+      year: 2020
+- title: Volunteer
+  type: time_table
+  contents:
+    - title: Local Organization 
+      institution: BNAIC/BeNeLearn
+      year: 2023
+      description: BNAIC is a local, three-day AI conference for researchers in the Netherlands, Belgium and Luxembourg. I am part of the local organization team. 
+    - title: General Board member
+      institution: Haarlems Accordeon Orkest, Haarlem, The Netherlands
+      year: 2021-2024
+      description: 
+      - Together with four other board members, I organized concerts, rehearsals, and trips for the orchestra.
+      - With the music committee, I am in charge of selecting new works to play and creating set lists for concerts.
+      - I built and currently maintain the website of the orchestra.
