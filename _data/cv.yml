@@ -2,45 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Kim van den Houten
-    - name: Position
-      value: PhD candidate
+      value: Albert Einstein
     - name: Date of Birth
-      value: 14th June 1997
-    - name: Email
-      value: k.c.vandenhouten@tudelft.nl
-    - name: Summary
-      value: Working on the intersection of Computer Science and Operations Research.
-- title: Languages
-  type: list_groups
-  contents:
-  - category: Dutch
-  - category: English
-- title: Experience
-  type: time_table
-  contents:
-    - title: PhD student
-      institution: Delft University of Technology, Delft, The Netherlands
-      department: Algorithmics
-      year: 2021 - present
-      maindescription: Position in the AI4b.io Lab
-    - title: Student Assistant
-      institution: Vrije Universiteit Amsterdam
-      year: 2020-2021
-      maindescription: Course: Computational Intelligence (Artificial Intelligence)
-    - title: Student-Assistant Capacity Management in Healthcare
-      institution: Rhythm B.V.
-      year: 2019-2020
-      maindescription: Data Analysis
-    - title: Student Assistant
-      institution: University of Amsterdam
-      year: 2019
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
+
 - title: Education
   type: time_table
   contents:
-    - title: MSc Econometrics and Operations Research
-      institution: Vrije Universiteit Amsterdam, The Netherlands
-      year: 2021   
-    - title: BSc Econometrics and Operations Research
-      institution: University of Amsterdam, The Netherlands
-      year: 2019
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
