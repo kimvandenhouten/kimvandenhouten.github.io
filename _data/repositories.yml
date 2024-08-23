@@ -1,8 +1,14 @@
 github_users:
-  - kimvandenhouten
-  
+  - torvalds
+  - alshedivat
+
 repo_description_lines_max: 2
 
 github_repos:
-  - kimvandenhouten/SimPyManufacturing
-  - kimvandenhouten/Learning-From-Scenarios-for-Repairable-Stochastic-Scheduling
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
